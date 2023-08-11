@@ -1,0 +1,6 @@
+﻿  BrandonUnteaClientApplication.cpp
+C:\Users\lolca\Desktop\UnteaBrandonPhase2Project\UnteaBrandonPhase2Project\BrandonUnteaClientApplication\BrandonUnteaClientApplication.cpp(103,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lolca\Desktop\UnteaBrandonPhase2Project\UnteaBrandonPhase2Project\BrandonUnteaClientApplication\BrandonUnteaClientApplication.cpp(136,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lolca\Desktop\UnteaBrandonPhase2Project\UnteaBrandonPhase2Project\BrandonUnteaClientApplication\BrandonUnteaClientApplication.cpp(161,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lolca\Desktop\UnteaBrandonPhase2Project\UnteaBrandonPhase2Project\BrandonUnteaClientApplication\BrandonUnteaClientApplication.cpp(77,45): warning C4101: 'e': unreferenced local variable
+  BrandonUnteaClientApplication.vcxproj -> C:\Users\lolca\Desktop\UnteaBrandonPhase2Project\UnteaBrandonPhase2Project\BrandonUnteaClientApplication\x64\Debug\BrandonUnteaClientApplication.exe

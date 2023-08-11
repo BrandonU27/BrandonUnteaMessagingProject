@@ -1,0 +1,769 @@
+
+Thu Mar 16 14:59:23 2023
+Message: Doing some testing
+Thu Mar 16 14:59:31 2023
+Comand: $register
+Thu Mar 16 14:59:31 2023
+Message: 
+Thu Mar 16 15:01:56 2023
+Message: Hi
+Thu Mar 16 15:14:49 2023
+Comand: $register
+Thu Mar 16 15:14:49 2023
+Message:  
+Thu Mar 16 15:17:10 2023
+Comand: $register
+Thu Mar 16 15:17:10 2023
+Message: `
+Thu Mar 16 15:31:31 2023
+Comand: $register
+Thu Mar 16 15:31:31 2023
+Message:  
+Thu Mar 16 15:32:53 2023
+Message: Hi
+Thu Mar 16 15:33:05 2023
+Comand: $register
+Thu Mar 16 15:51:19 2023
+Comand: $register
+Thu Mar 16 15:51:19 2023
+Message: 
+Thu Mar 16 16:01:46 2023
+Message: hi
+Thu Mar 16 16:01:53 2023
+Comand: $register
+Thu Mar 16 16:01:53 2023
+Message: Brandon
+Thu Mar 16 16:13:25 2023
+Comand: $register
+Thu Mar 16 16:14:35 2023
+Comand: $register
+Thu Mar 16 16:16:20 2023
+Comand: $register
+Thu Mar 16 16:16:24 2023
+Message: hi
+Thu Mar 16 16:18:09 2023
+Message: hi
+Thu Mar 16 16:18:12 2023
+Message: testing
+Thu Mar 16 16:18:15 2023
+Message: Something
+Thu Mar 16 16:18:25 2023
+Comand: $register
+Thu Mar 16 16:21:00 2023
+Comand: $register
+Thu Mar 16 16:23:10 2023
+Comand: $register
+Thu Mar 16 16:30:59 2023
+Comand: $register Brandon
+Thu Mar 16 16:31:44 2023
+Message: dadfjsfa
+Thu Mar 16 16:31:50 2023
+Comand: $exit
+Thu Mar 16 16:33:32 2023
+Message: test
+Thu Mar 16 16:36:05 2023
+Comand: $register
+Thu Mar 16 16:36:14 2023
+Comand: $register Brandon
+Mon Mar 20 11:39:23 2023
+Comand: Mon Mar 20 11:39:26 2023
+Message: Hi
+Mon Mar 20 11:45:52 2023
+Comand: Mon Mar 20 11:51:32 2023
+Message: Hi
+Mon Mar 20 11:51:34 2023
+Message: Hi
+Mon Mar 20 11:51:41 2023
+Comand: Mon Mar 20 11:51:59 2023
+Comand: Mon Mar 20 12:18:00 2023
+Comand: Mon Mar 20 12:18:21 2023
+Comand: Mon Mar 20 17:32:44 2023
+Message: Hi
+Mon Mar 20 17:34:19 2023
+Message: test
+Mon Mar 20 17:49:08 2023
+Comand: Mon Mar 20 17:50:56 2023
+Comand: Mon Mar 20 18:05:00 2023
+Comand: $getlist
+Mon Mar 20 18:08:21 2023
+Comand: $getlist
+Mon Mar 20 18:08:21 2023
+List is empty warned the client!!!
+Mon Mar 20 18:08:33 2023
+Comand: $register Alex
+Mon Mar 20 18:08:33 2023
+ Alex has been registered!
+Mon Mar 20 18:08:38 2023
+Comand: $getlist
+Mon Mar 20 18:08:38 2023
+List of users sent
+Mon Mar 20 18:10:56 2023
+Message: hi
+Mon Mar 20 18:10:58 2023
+Message: there
+Mon Mar 20 18:37:13 2023
+Message: #register Brandon
+Mon Mar 20 18:37:22 2023
+Comand: $register Brandon
+Mon Mar 20 18:37:22 2023
+ Brandon has been registered!
+Mon Mar 20 18:51:26 2023
+Comand: $getlist
+Mon Mar 20 18:51:26 2023
+List is empty warned the client!!!
+Mon Mar 20 18:51:35 2023
+Comand: $register Brandon
+Mon Mar 20 18:51:35 2023
+ Brandon has been registered!
+Mon Mar 20 18:51:38 2023
+Comand: $getlist
+Mon Mar 20 18:51:38 2023
+List of users sent
+Mon Mar 20 18:57:49 2023
+Message: hi
+Mon Mar 20 18:57:50 2023
+Message: testing
+Mon Mar 20 18:57:57 2023
+Comand: $register person
+Mon Mar 20 18:57:57 2023
+ person has been registered!
+Mon Mar 20 18:58:02 2023
+Comand: $getlist
+Mon Mar 20 18:58:02 2023
+List of users sent
+Mon Mar 20 18:58:38 2023
+Comand: $register person2
+Mon Mar 20 18:58:38 2023
+ person2 has been registered!
+Mon Mar 20 18:58:50 2023
+Comand: $getlist
+Mon Mar 20 18:58:50 2023
+List of users sent
+Mon Mar 20 18:59:21 2023
+Comand: $register person3
+Mon Mar 20 18:59:21 2023
+Sorry but the capacity to register is currently full try again when someone leaves!!!!
+Mon Mar 20 18:59:27 2023
+Message: hi
+Mon Mar 20 22:06:53 2023
+Message: hi
+Mon Mar 20 22:07:27 2023
+Comand: $register Brandon
+Mon Mar 20 22:07:27 2023
+ Brandon has been registered!
+Mon Mar 20 22:07:38 2023
+Comand: $getlist
+Mon Mar 20 22:07:38 2023
+List of users sent
+Mon Mar 20 22:27:33 2023
+Message: hi
+Mon Mar 20 22:30:16 2023
+Message: hi
+Mon Mar 20 22:30:17 2023
+Message: testing
+Mon Mar 20 22:30:19 2023
+Comand: something
+Mon Mar 20 22:30:19 2023
+ has been registered!
+Mon Mar 20 22:30:25 2023
+Comand: $register Brandon
+Mon Mar 20 22:30:25 2023
+ Brandon has been registered!
+Mon Mar 20 22:30:29 2023
+Comand: $exit
+Mon Mar 20 22:31:30 2023
+Comand: $register Person
+Mon Mar 20 22:31:30 2023
+ Person has been registered!
+Mon Mar 20 22:31:37 2023
+Comand: $register Person2
+Mon Mar 20 22:31:37 2023
+Sorry but the capacity to register is currently full try again when someone leaves!!!!
+Mon Mar 20 22:31:49 2023
+Comand: $exit
+Mon Mar 20 22:32:15 2023
+Comand: $getlist
+Mon Mar 20 22:32:15 2023
+List of users sent
+Mon Mar 20 22:32:23 2023
+Comand: $register Brandon
+Mon Mar 20 22:32:23 2023
+ Brandon has been registered!
+Mon Mar 20 22:32:33 2023
+Message: $getlist'
+Mon Mar 20 22:32:38 2023
+Comand: $getlist
+Mon Mar 20 22:32:38 2023
+List of users sent
+Mon Mar 20 22:33:10 2023
+Comand: $register hi
+Mon Mar 20 22:33:10 2023
+Sorry but the capacity to register is currently full try again when someone leaves!!!!
+Mon Mar 20 22:33:17 2023
+Comand: $getlist
+Mon Mar 20 22:33:17 2023
+List of users sent
+Mon Mar 20 22:33:22 2023
+Comand: $exit
+Mon Mar 20 22:33:29 2023
+Comand: $getlist
+Mon Mar 20 22:33:29 2023
+List of users sent
+Mon Mar 20 22:35:05 2023
+Comand: $getlist
+Mon Mar 20 22:35:05 2023
+List is empty warned the client!!!
+Mon Mar 20 22:35:11 2023
+Comand: $register Brandon
+Mon Mar 20 22:35:11 2023
+ Brandon has been registered!
+Mon Mar 20 22:35:38 2023
+Comand: $register Alex
+Mon Mar 20 22:35:38 2023
+ Alex has been registered!
+Mon Mar 20 22:35:43 2023
+Comand: $getlist
+Mon Mar 20 22:35:43 2023
+List of users sent
+Mon Mar 20 22:35:50 2023
+Comand: $register Bob
+Mon Mar 20 22:35:50 2023
+Sorry but the capacity to register is currently full try again when someone leaves!!!!
+Mon Mar 20 22:36:00 2023
+Comand: $exit
+Mon Mar 20 22:36:05 2023
+Comand: $getlist
+Mon Mar 20 22:36:05 2023
+List of users sent
+Mon Mar 20 22:36:18 2023
+Comand: $register NewAlex
+Mon Mar 20 22:36:18 2023
+ NewAlex has been registered!
+Mon Mar 20 22:36:24 2023
+Comand: $getlist
+Mon Mar 20 22:36:24 2023
+List of users sent
+Mon Mar 20 22:36:28 2023
+Comand: $exit
+Mon Mar 20 22:36:33 2023
+Comand: $exit
+Mon Mar 20 22:47:17 2023
+Comand: $register Brandon
+Mon Mar 20 22:47:17 2023
+ Brandon has been registered!
+Mon Mar 20 22:49:30 2023
+Message: hi
+Mon Mar 20 22:51:37 2023
+Message: hi
+Mon Mar 20 22:51:39 2023
+Message: testing
+Mon Mar 20 22:51:41 2023
+Comand: something
+Mon Mar 20 22:51:41 2023
+ has been registered!
+Mon Mar 20 22:56:07 2023
+Message: hi
+Mon Mar 20 22:56:09 2023
+Comand: something
+Mon Mar 20 22:56:09 2023
+ has been registered!
+Mon Mar 20 22:56:11 2023
+Message: testing
+Mon Mar 20 22:56:13 2023
+Message: what
+Mon Mar 20 22:56:16 2023
+Message: is 
+Mon Mar 20 22:56:19 2023
+Comand: $getlist
+Mon Mar 20 22:56:19 2023
+List of users sent
+Mon Mar 20 22:56:26 2023
+Comand: $getlist
+Mon Mar 20 22:56:26 2023
+List of users sent
+Mon Mar 20 22:57:30 2023
+Message: hi
+Mon Mar 20 23:00:32 2023
+Message: testing
+Mon Mar 20 23:00:34 2023
+Comand: something
+Mon Mar 20 23:00:34 2023
+ has been registered!
+Mon Mar 20 23:00:48 2023
+Message: hi
+Mon Mar 20 23:02:06 2023
+Message: hi
+Mon Mar 20 23:02:08 2023
+Message: he
+Mon Mar 20 23:02:09 2023
+Comand: dfjakfjda
+Mon Mar 20 23:02:09 2023
+ has been registered!
+Mon Mar 20 23:03:47 2023
+Message: hi
+Mon Mar 20 23:03:50 2023
+Message: this
+Mon Mar 20 23:03:52 2023
+Comand: something
+Mon Mar 20 23:03:52 2023
+ has been registered!
+Mon Mar 20 23:05:29 2023
+Message: hi
+Mon Mar 20 23:07:26 2023
+Message: hi
+Mon Mar 20 23:08:59 2023
+Message: hi
+Mon Mar 20 23:09:15 2023
+Message: hi
+Mon Mar 20 23:15:07 2023
+Message: hi
+Mon Mar 20 23:15:09 2023
+Message: something
+Mon Mar 20 23:15:12 2023
+Message: thing
+Mon Mar 20 23:15:16 2023
+Comand: $register Brandon
+Mon Mar 20 23:15:16 2023
+ Brandon has been registered!
+Mon Mar 20 23:15:20 2023
+Comand: $getlist
+Mon Mar 20 23:15:20 2023
+List of users sent
+Mon Mar 20 23:17:24 2023
+Comand: $getlist
+Mon Mar 20 23:17:24 2023
+List of users sent
+Mon Mar 20 23:17:58 2023
+Comand: $exit
+Mon Mar 20 23:20:50 2023
+Message: there is a thing
+Mon Mar 20 23:20:53 2023
+Message: lol
+Mon Mar 20 23:20:58 2023
+Comand: $register P
+Mon Mar 20 23:20:58 2023
+ P has been registered!
+Mon Mar 20 23:21:13 2023
+Comand: $getlist
+Mon Mar 20 23:21:13 2023
+List is empty warned the client!!!
+Mon Mar 20 23:21:19 2023
+Message: adjklvsnsavnsvlksvansvlsa
+Mon Mar 20 23:21:22 2023
+Message: dakvjdskavdthasd
+Mon Mar 20 23:24:50 2023
+Message: hi
+Mon Mar 20 23:24:55 2023
+Comand: $register
+Mon Mar 20 23:24:55 2023
+ has been registered!
+Mon Mar 20 23:24:59 2023
+Message: hi
+Mon Mar 20 23:25:00 2023
+Message: something
+Mon Mar 20 23:25:03 2023
+Message: something
+Mon Mar 20 23:25:06 2023
+Message: another thing
+Mon Mar 20 23:25:11 2023
+Comand: $register ME
+Mon Mar 20 23:25:11 2023
+Sorry but the capacity to register is currently full try again when someone leaves!!!!
+Mon Mar 20 23:29:18 2023
+Message: hi
+Mon Mar 20 23:29:20 2023
+Comand: somethin
+Mon Mar 20 23:29:20 2023
+Sorry but the capacity to register is currently full try again when someone leaves!!!!
+Mon Mar 20 23:30:42 2023
+Message: soemthing
+Mon Mar 20 23:30:44 2023
+Message: dahgtanvsa
+Mon Mar 20 23:30:46 2023
+Message: adskvdnav;eavn
+Mon Mar 20 23:30:54 2023
+Comand: $register Brandon
+Mon Mar 20 23:30:54 2023
+ Brandon has been registered!
+Mon Mar 20 23:31:00 2023
+Comand: $exit
+Tue Mar 21 12:38:08 2023
+Message: hi
+Tue Mar 21 12:38:14 2023
+Message: hi
+Tue Mar 21 12:38:28 2023
+Comand: $register Brandon
+Tue Mar 21 12:38:28 2023
+ Brandon has been registered!
+Tue Mar 21 12:38:38 2023
+Comand: $register Alex
+Tue Mar 21 12:38:38 2023
+ Alex has been registered!
+Tue Mar 21 12:39:08 2023
+Comand: $register person
+Tue Mar 21 12:39:08 2023
+Sorry but the capacity to register is currently full try again when someone leaves!!!!
+Tue Mar 21 12:39:42 2023
+Comand: $getlist
+Tue Mar 21 12:39:42 2023
+List of users sent
+Tue Mar 21 12:45:12 2023
+Message: hi
+Tue Mar 21 12:47:14 2023
+Comand: $exit
+Tue Mar 21 12:50:15 2023
+Message: hi
+Tue Mar 21 12:50:19 2023
+Comand: $register Brandon
+Tue Mar 21 12:50:19 2023
+ Brandon has been registered!
+Tue Mar 21 12:50:24 2023
+Comand: $getlist
+Tue Mar 21 12:50:24 2023
+List of users sent
+Tue Mar 21 12:50:29 2023
+Comand: $exit
+Tue Mar 21 12:52:16 2023
+Comand: $register B
+Tue Mar 21 12:52:16 2023
+ B has been registered!
+Tue Mar 21 12:52:22 2023
+Comand: $register A
+Tue Mar 21 12:52:22 2023
+Sorry but the capacity to register is currently full try again when someone leaves!!!!
+Tue Mar 21 12:52:32 2023
+Comand: $register C
+Tue Mar 21 12:52:32 2023
+Sorry but the capacity to register is currently full try again when someone leaves!!!!
+Tue Mar 21 12:52:45 2023
+Message: $exist
+Tue Mar 21 12:52:49 2023
+Comand: $getlist
+Tue Mar 21 12:52:49 2023
+List of users sent
+Tue Mar 21 12:52:57 2023
+Comand: $register T
+Tue Mar 21 12:52:57 2023
+Sorry but the capacity to register is currently full try again when someone leaves!!!!
+Tue Mar 21 12:53:03 2023
+Comand: $gitlist
+Tue Mar 21 12:53:03 2023
+Sorry but the capacity to register is currently full try again when someone leaves!!!!
+Tue Mar 21 12:53:11 2023
+Comand: $getlist
+Tue Mar 21 12:53:11 2023
+List of users sent
+Tue Mar 21 13:15:03 2023
+Message: hi
+Tue Mar 21 13:17:03 2023
+Comand: $register Brandon
+Tue Mar 21 13:17:03 2023
+ Brandon has been registered!
+Tue Mar 21 13:17:41 2023
+Comand: $registered Brandon
+Tue Mar 21 13:17:41 2023
+ed Brandon has been registered!
+Tue Mar 21 13:17:43 2023
+Message: hi
+Tue Mar 21 13:17:47 2023
+Comand: $exit
+Tue Mar 21 13:30:18 2023
+Comand: $register B
+Tue Mar 21 13:33:53 2023
+Comand: $register B
+Tue Mar 21 13:33:53 2023
+Sorry but the capacity to register is currently full try again when someone leaves!!!!
+Tue Mar 21 13:34:49 2023
+Comand: $register
+Tue Mar 21 13:34:49 2023
+ has been registered!
+Tue Mar 21 13:37:06 2023
+Comand: $register Brandon
+Tue Mar 21 13:37:06 2023
+ Brandon has been registered!
+Tue Mar 21 13:37:27 2023
+Comand: $register Alex
+Tue Mar 21 13:37:27 2023
+Sorry but the capacity to register is currently full try again when someone leaves!!!!
+Tue Mar 21 14:11:56 2023
+Message: j
+Tue Mar 21 14:11:58 2023
+Message: j
+Tue Mar 21 14:13:06 2023
+Message: hi
+Tue Mar 21 14:15:10 2023
+Comand: $register Brandon
+Tue Mar 21 14:15:10 2023
+ Brandon has been registered!
+Tue Mar 21 14:15:46 2023
+Comand: $register Branodn
+Tue Mar 21 14:15:46 2023
+Sorry but the capacity to register is currently full try again when someone leaves!!!!
+Tue Mar 21 14:16:30 2023
+Comand: $register Brandon
+Tue Mar 21 14:16:30 2023
+ Brandon has been registered!
+Tue Mar 21 14:20:35 2023
+Comand: $register Brandon
+Tue Mar 21 14:20:59 2023
+Comand: $register Brandon
+Tue Mar 21 14:20:59 2023
+ Brandon has been registered!
+Tue Mar 21 14:21:57 2023
+Comand: $register Brandon
+Tue Mar 21 14:21:57 2023
+Sorry but the capacity to register is currently full try again when someone leaves!!!!
+Tue Mar 21 14:26:40 2023
+Comand: $register Brandon
+Tue Mar 21 14:26:40 2023
+ Brandon has been registered!
+Tue Mar 21 14:26:58 2023
+Comand: $register Alex
+Tue Mar 21 14:26:58 2023
+ Alex has been registered!
+Tue Mar 21 14:27:26 2023
+Comand: $register Brandon
+Tue Mar 21 14:27:26 2023
+ Brandon has been registered!
+Tue Mar 21 14:28:28 2023
+Comand: $register Brandon
+Tue Mar 21 14:28:28 2023
+ Brandon has been registered!
+Tue Mar 21 14:29:24 2023
+Comand: $register Brandon
+Tue Mar 21 14:33:13 2023
+Comand: $register Brandon
+Tue Mar 21 14:33:13 2023
+ Brandon has been registered!
+Tue Mar 21 14:33:15 2023
+Message: hi
+Tue Mar 21 14:33:17 2023
+Message: test
+Tue Mar 21 14:33:19 2023
+Message: message
+Tue Mar 21 14:33:21 2023
+Comand: $exit
+Tue Mar 21 14:59:26 2023
+Comand: $register Brandon
+Tue Mar 21 14:59:26 2023
+ Brandon has been registered!
+Tue Mar 21 14:59:38 2023
+Message: hi
+Tue Mar 21 15:56:38 2023
+Comand: $register Brandon
+Tue Mar 21 15:56:38 2023
+ Brandon has been registered!
+Tue Mar 21 15:56:41 2023
+Comand: $getlist
+Tue Mar 21 15:56:41 2023
+List of users sent
+Tue Mar 21 15:56:48 2023
+Message: $exist
+Tue Mar 21 15:56:52 2023
+Comand: $exit
+Tue Mar 21 16:13:02 2023
+Comand: $register Brandon
+Tue Mar 21 16:13:02 2023
+ Brandon has been registered!
+Tue Mar 21 16:13:04 2023
+Message: hi
+Thu Mar 23 08:08:44 2023
+Comand: $register Brandon
+Thu Mar 23 08:08:44 2023
+ Brandon has been registered!
+Thu Mar 23 08:08:47 2023
+Comand: $getlist
+Thu Mar 23 08:08:47 2023
+List of users sent
+Thu Mar 23 08:08:52 2023
+Message: hi
+Thu Mar 23 08:08:56 2023
+Message: how are you
+Thu Mar 23 08:08:58 2023
+Message: working
+Thu Mar 23 08:09:03 2023
+Comand: $exit
+Thu Mar 23 08:09:21 2023
+Comand: $register Alex
+Thu Mar 23 08:09:21 2023
+ Alex has been registered!
+Thu Mar 23 08:09:24 2023
+Comand: $getlist
+Thu Mar 23 08:09:24 2023
+List of users sent
+Thu Mar 23 08:20:19 2023
+Comand: $register Person
+Thu Mar 23 08:20:19 2023
+ Person has been registered!
+Thu Mar 23 08:20:33 2023
+Comand: $register Person2
+Thu Mar 23 08:20:33 2023
+ Person2 has been registered!
+Thu Mar 23 08:20:40 2023
+Comand: $register Person3
+Thu Mar 23 08:20:40 2023
+ Person3 has been registered!
+Thu Mar 23 08:20:49 2023
+Comand: $register Person 4
+Thu Mar 23 08:20:49 2023
+Sorry but the capacity to register is currently full try again when someone leaves!!!!
+Thu Mar 23 08:21:06 2023
+Comand: $exit
+Thu Mar 23 08:21:13 2023
+Comand: $getlist
+Thu Mar 23 08:21:13 2023
+List of users sent
+Thu Mar 23 08:23:48 2023
+Comand: $register Person
+Thu Mar 23 08:23:48 2023
+ Person has been registered!
+Thu Mar 23 08:23:52 2023
+Comand: $getlist
+Thu Mar 23 08:23:52 2023
+List of users sent
+Thu Mar 23 08:24:01 2023
+Comand: $register Person2
+Thu Mar 23 08:24:01 2023
+ Person2 has been registered!
+Thu Mar 23 08:24:05 2023
+Comand: $getlist
+Thu Mar 23 08:24:05 2023
+List of users sent
+Thu Mar 23 08:24:14 2023
+Comand: $register Person3
+Thu Mar 23 08:24:14 2023
+ Person3 has been registered!
+Thu Mar 23 08:24:18 2023
+Comand: $getlist
+Thu Mar 23 08:24:18 2023
+List of users sent
+Thu Mar 23 08:24:26 2023
+Comand: $register Person4
+Thu Mar 23 08:24:26 2023
+Sorry but the capacity to register is currently full try again when someone leaves!!!!
+Thu Mar 23 08:24:38 2023
+Message: hi
+Thu Mar 23 08:24:41 2023
+Message: testing
+Thu Mar 23 08:24:48 2023
+Comand: this out
+Thu Mar 23 08:24:48 2023
+Sorry but the capacity to register is currently full try again when someone leaves!!!!
+Thu Mar 23 08:24:54 2023
+Message: hi
+Thu Mar 23 08:26:01 2023
+Comand: $register
+Thu Mar 23 08:26:01 2023
+ has been registered!
+Thu Mar 23 08:27:08 2023
+Comand: $register Brandon
+Thu Mar 23 08:27:08 2023
+ Brandon has been registered!
+Thu Mar 23 08:27:10 2023
+Comand: $getlist
+Thu Mar 23 08:27:10 2023
+List of users sent
+Thu Mar 23 08:27:16 2023
+Comand: $register Person
+Thu Mar 23 08:27:16 2023
+ Person has been registered!
+Thu Mar 23 08:27:21 2023
+Comand: $register Alex
+Thu Mar 23 08:27:21 2023
+ Alex has been registered!
+Thu Mar 23 08:27:30 2023
+Comand: $getlist
+Thu Mar 23 08:27:30 2023
+List of users sent
+Thu Mar 23 08:27:32 2023
+Comand: hi there
+Thu Mar 23 08:27:32 2023
+Sorry but the capacity to register is currently full try again when someone leaves!!!!
+Thu Mar 23 08:27:34 2023
+Message: hi
+Thu Mar 23 08:27:37 2023
+Comand: hi there
+Thu Mar 23 08:27:37 2023
+Sorry but the capacity to register is currently full try again when someone leaves!!!!
+Thu Mar 23 08:27:58 2023
+Message: hithere
+Thu Mar 23 08:28:03 2023
+Message: hitherelook
+Thu Mar 23 08:28:08 2023
+Message: whta happens
+Thu Mar 23 08:28:11 2023
+Comand: hi there
+Thu Mar 23 08:28:11 2023
+Sorry but the capacity to register is currently full try again when someone leaves!!!!
+Thu Mar 23 08:28:16 2023
+Message: look that thing
+Thu Mar 23 08:28:25 2023
+Message: hi there thing
+Thu Mar 23 08:28:33 2023
+Message: hi there thing
+Thu Mar 23 08:28:36 2023
+Message: hi there thing
+Thu Mar 23 08:28:40 2023
+Message: hi there thing
+Thu Mar 23 08:28:44 2023
+Message: hi there thing
+Thu Mar 23 08:28:48 2023
+Message: hi there thing
+Thu Mar 23 08:28:55 2023
+Message: looking here
+Thu Mar 23 08:29:04 2023
+Message: looking here in the tree
+Thu Mar 23 08:31:08 2023
+Comand: $register Person
+Thu Mar 23 08:31:08 2023
+ Person has been registered!
+Thu Mar 23 08:31:11 2023
+Comand: $getlist
+Thu Mar 23 08:31:11 2023
+List of users sent
+Thu Mar 23 08:31:19 2023
+Comand: $register Person2
+Thu Mar 23 08:31:19 2023
+ Person2 has been registered!
+Thu Mar 23 08:31:24 2023
+Comand: $getlist
+Thu Mar 23 08:31:24 2023
+List of users sent
+Thu Mar 23 08:31:40 2023
+Comand: $register Person3
+Thu Mar 23 08:31:40 2023
+ Person3 has been registered!
+Thu Mar 23 08:31:47 2023
+Comand: $getlist
+Thu Mar 23 08:31:47 2023
+List of users sent
+Thu Mar 23 08:31:58 2023
+Comand: $register Person4
+Thu Mar 23 08:31:58 2023
+Sorry but the capacity to register is currently full try again when someone leaves!!!!
+Thu Mar 23 08:32:05 2023
+Message: hi
+Thu Mar 23 08:32:08 2023
+Message: testing
+Thu Mar 23 08:32:12 2023
+Message: the message
+Thu Mar 23 08:32:24 2023
+Comand: $exit
+Thu Mar 23 08:32:29 2023
+Comand: $getlist
+Thu Mar 23 08:32:29 2023
+List of users sent
+Thu Mar 23 08:32:56 2023
+Comand: $exit
+Thu Mar 23 08:33:03 2023
+Comand: $getlist
+Thu Mar 23 08:33:03 2023
+List of users sent
+Thu Mar 23 08:33:07 2023
+Comand: $exit
+Thu Mar 23 08:45:17 2023
+Comand: $register Brandon
+Thu Mar 23 08:45:17 2023
+ Brandon has been registered!
+Thu Mar 23 08:45:20 2023
+Comand: $exit
